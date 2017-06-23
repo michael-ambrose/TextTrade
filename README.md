@@ -1,0 +1,2 @@
+# TextTrade
+Startup project
